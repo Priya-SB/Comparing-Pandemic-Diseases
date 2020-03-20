@@ -1,6 +1,7 @@
 # Pandemic-disease-comparisons
-
 A detailed comparison between COVID19, SARS and EBOLA diseases
+
+-----------
 (All datasets uploaded)
 (Coronavirus data as per 18th March 2020)
 
@@ -49,16 +50,16 @@ Tree map showing countries affected across the globe:
 Comparison:
 ---------------------
 Mortality Rate:
-![comp_cases](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20(1).svg)
+![comp_mortality](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20(1).svg)
 -----------------------------------------------------------------------------------------------
 Affected Countries:
-![s_cases_map](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20.svg)
+![comp_countries](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20.svg)
 -----------------------------------------------------------------------------------------------
 Confirmed cases:
-![s_cases_tree](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20(3).svg)
+![comp_conf](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20(3).svg)
 -----------------------------------------------------------------------------------------------
 Death cases:
-![s_cases_tree](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20(2).svg)
+![comp_death](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20(2).svg)
 -----------------------------------------------------------------------------------------------
 
 
