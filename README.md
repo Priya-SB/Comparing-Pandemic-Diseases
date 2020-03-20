@@ -53,7 +53,7 @@ Mortality Rate:
 ![comp_mortality](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20(1).svg)
 -----------------------------------------------------------------------------------------------
 Affected Countries:
-![comp_countries](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20.svg)
+![comp_countries](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot.svg)
 -----------------------------------------------------------------------------------------------
 Confirmed cases:
 ![comp_conf](https://github.com/Priya-SB/Comparing-Pandemic-Diseases/blob/master/images/newplot%20(3).svg)
